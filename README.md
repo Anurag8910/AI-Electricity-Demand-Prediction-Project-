@@ -29,12 +29,18 @@ Regional Demand Analysis: View demand increases/decreases in various cities to a
 
 🚀 Setup & Installation
 1.Clone the repository: git clone https://github.com/yourusername/your-repo-name.git
+
 2.Navigate to the project directory: cd your-repo-name
+
 3.Access the Dashboard: Open your browser and go to http://localhost:your_port 🌐.
 
-🌱 Future Enhancements
-🌐 Enhanced Forecasting Models: Incorporate additional data (e.g., weather, economic indicators) for better predictions.
-🖥️ Dashboard Interactivity: Add more filters and views to customize insights.
-📱 Mobile Optimization: Enhance dashboard compatibility for mobile users.
+🌱 Future Enhancements - 
+
+  🌐 Enhanced Forecasting Models: Incorporate additional data (e.g., weather, economic indicators) for better predictions.
+  
+  🖥️ Dashboard Interactivity: Add more filters and views to customize insights.
+  
+  📱 Mobile Optimization: Enhance dashboard compatibility for mobile users.
+
 
 
